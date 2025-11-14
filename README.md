@@ -98,26 +98,23 @@ A complete **BI dashboard** containing:
 fig.write_html("restaurant_dashboard.html")
 ```
 ### 🚀 How to Run the Project
-1. Install Required Libraries
-pip install pandas numpy plotly seaborn matplotlib
+  1. Install Required Libraries
+  -pip install pandas numpy plotly seaborn matplotlib
 
-2. Upload Dataset in Google Colab
-from google.colab import files
-uploaded = files.upload()
+  2. Upload Dataset in Google Colab
+  -from google.colab import files
+  -uploaded = files.upload()
 
-3. Run the Notebook
+  3. Run the Notebook
 
-Execute all steps:
+    Execute all steps:
+    -Data Cleaning
+    -EDA
+    -Dashboard Generation
 
-Data Cleaning
-
-EDA
-
-Dashboard Generation
-
-4. Export Dashboard
-fig.write_html("restaurant_dashboard.html")
-files.download("restaurant_dashboard.html")
+  4. Export Dashboard
+  -fig.write_html("restaurant_dashboard.html")
+  -files.download("restaurant_dashboard.html")
 
 ### 🧰 Tools & Technologies Used
 - Languages
@@ -167,10 +164,10 @@ Sales increased significantly during December.
 
 ### 🧑‍💻 Author
 
-Ankit Kumar Upadhyay
+Ankit Kumar Upadhyay | 
 Data Science & AI Enthusiast
 
-📧 Email: your-upadhyayankit767.com
+📧 Email: upadhyayankit767@gmail.com
 
-🔗 GitHub: [your-github-link](https://github.com/imankit-0921)
+🔗 GitHub: [your-github-link](https://github.com/imankit-0921) | 
 🔗 LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/ankit-upadhyay-9734a424b)
