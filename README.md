@@ -97,7 +97,7 @@ A complete **BI dashboard** containing:
 ```python
 fig.write_html("restaurant_dashboard.html")
 ```
-###🚀 How to Run the Project
+### 🚀 How to Run the Project
 1. Install Required Libraries
 pip install pandas numpy plotly seaborn matplotlib
 
@@ -119,7 +119,7 @@ Dashboard Generation
 fig.write_html("restaurant_dashboard.html")
 files.download("restaurant_dashboard.html")
 
-###🧰 Tools & Technologies Used
+### 🧰 Tools & Technologies Used
 - Languages
 - Python
 - Libraries
@@ -134,7 +134,7 @@ files.download("restaurant_dashboard.html")
 - Google Colab
 - GitHub (for deployment)
 
-##🔍 Key Insights (From EDA)
+### 🔍 Key Insights (From EDA)
 📌 1. Top-Selling Products
 
 Fries, Burgers, Beverages & Sandwiches generate maximum quantity & revenue.
@@ -155,8 +155,8 @@ Berlin contributes maximum revenue.
 
 Sales increased significantly during December.
 
-###🚀 Future Enhancements
-##🔮 Advanced Improvements
+### 🚀 Future Enhancements
+## 🔮 Advanced Improvements
 
 - Build a Machine Learning Model to predict revenue
 - Develop a Recommendation System for items
@@ -165,7 +165,7 @@ Sales increased significantly during December.
 - Deploy Dashboard using Streamlit / Flask
 - Add AI-powered insights generator
 
-##🧑‍💻 Author
+### 🧑‍💻 Author
 
 Ankit Kumar Upadhyay
 Data Science & AI Enthusiast
